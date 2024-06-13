@@ -1,0 +1,105 @@
+.content {
+  	margin: 5% 20% 5% 20%;
+}
+
+.hiperligacoesInicio {
+	color: black;
+	transition: color 0.5s;
+}
+
+.hiperligacoesInicio:hover {
+  	color: #4d89bd;
+	text-decoration: none;
+}
+
+.card-text {
+	text-align: center;
+}
+
+.content .navbar {
+	background-color: white;
+	border: 1px solid #3ca9e2;
+}
+
+.nav-link {
+	color: #5d5d5d;
+	transition: color 0.5s;
+}
+
+.nav-link:hover {
+  	color: #4d89bd;
+	text-decoration: none;
+}
+
+.alinhar {
+	margin-bottom: 20px;
+}
+
+.download {
+	display: inline-flex;
+	margin-bottom: 20px;
+}
+
+.download .gallery {
+  	margin: 5px;
+  	border: 1px solid #ccc;
+	float: left;
+ 	width: 50px;
+	height: 100% ;	
+}
+
+.download .gallery:hover {
+  	border: 1px solid #777;
+}
+
+.download .gallery img {
+  	width: 100%;
+	height: 100%;
+}
+
+.download .descf {
+  	padding: 15px;
+  	text-align: center;
+}
+
+
+
+.gallery {
+  	margin: 5px;
+  	border: 1px solid #ccc;
+	float: left;
+  	width: 150px;
+	
+}
+
+.gallery:hover {
+  	border: 1px solid #777;
+}
+
+.gallery img {
+  	width: 100%;
+	height: 100%;
+}
+
+.descf {
+  	padding: 15px;
+  	text-align: center;
+}
+
+
+.alunos {
+	margin-bottom: 50px;
+}
+
+.conclusao p {
+	margin-bottom: 0px;
+}
+
+.alinhar p {
+	margin-top: 20px;
+}
+
+.col {
+	margin-bottom: 20px;
+}
+

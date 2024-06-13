@@ -1,0 +1,34 @@
+.content {
+	width: 60%;
+  	margin: 5% 20% 5% 20%;
+}
+
+.info {
+	display: flex;
+}
+
+.conclusao {
+	margin-left: auto;
+	color: green;
+}
+
+.ficheiro {
+  	margin-left: auto;
+	width: 30%;
+}
+
+.desc {
+	width: 65%
+}
+
+.alinhar {
+	display: flex;
+}
+
+.form-control {
+	margin-bottom: 5px;
+}
+
+.card-text {
+	font-size: 20px;
+}

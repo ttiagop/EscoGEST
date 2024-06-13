@@ -1,0 +1,27 @@
+.content {
+  	margin: 5% 20% 5% 20%;
+}
+
+.hiperligacoesInicio {
+	color: black;
+	transition: color 0.5s;
+}
+
+.hiperligacoesInicio:hover {
+  	color: #4d89bd;
+	text-decoration: none;
+}
+
+.card-text {
+	font-size: 28px;
+	text-align: left;
+	display: flex;
+}
+
+.col {
+	margin-bottom: 10px;
+}
+
+.opcoes {
+	
+}

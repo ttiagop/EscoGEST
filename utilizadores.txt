@@ -1,0 +1,6 @@
+TIPOS
+
+0 - ADMIN (não desenvolvido)
+1 - ALUNO
+2 - PROFESSOR
+3 - EE (não desenvolvido)
