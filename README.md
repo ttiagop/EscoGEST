@@ -57,3 +57,9 @@ Este projeto poderá ser aplicado em qualquer instituição de ensino, ou adapta
 outras situações, até para uma empresa por exemplo, mesmo sendo vocacionado para 
 as escolas.
 #
+# 3. Bibliografia
+- [php.net](https://www.php.net/)
+- [W3Schools](https://www.w3schools.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Tutorial chat](https://www.youtube.com/watch?v=abTNoIZS9Ww&list=PL7Ds4hyOZFfydr415eikFwFvaKeYHdGju&pp=iAQB)
+#
