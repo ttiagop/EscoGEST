@@ -26,7 +26,7 @@ Esta prova de aptidão profissional, realiza-se no âmbito do Curso Profissional
 Técnico de Programador/a de Informática, solicitada no 3.º ano do curso e realizada 
 sob a orientação de um formador. 
 O projeto, consiste no desenvolvimento de uma ferramenta de gestão escolar.
-
+#
 
 # 2. Projeto 
 ## 2.1 Tema e tipo de Projeto 
@@ -35,6 +35,7 @@ página web com o objetivo de ser aplicada em escolas ou outro tipo de institui�
 ensino, oferecendo todas as necessidades básicas para a gestão e a organização da 
 mesma. Oferece também uma ferramenta de entrega de trabalhos/tarefas, e um 
 sistema de chat.
+#
 
 ## 2.2 Fundamentação da escolha do tema e do tipo do projeto 
 Este tema foi escolhido com o objetivo de centralizar as diversas ferramentas 
@@ -46,8 +47,10 @@ o objetivo de simplificar a comunicação entre os professores e os alunos, de f
 que comunicações menos formais possam ser feitas de uma forma mais simples. 
 Acima de tudo, o objeto foi criar uma melhor interação e simplificar ao máximo o 
 nosso dia a dia com este tipo de ferramentas.
+#
 
 ## 2.3 Aplicabilidade 
 Este projeto poderá ser aplicado em qualquer instituição de ensino, ou adaptado para 
 outras situações, até para uma empresa por exemplo, mesmo sendo vocacionado para 
 as escolas.
+#
